@@ -112,6 +112,15 @@ img {
     margin: 10px auto 0 auto !important;
 }
 
+.inlineimage {
+	width: 100%;
+    max-width: 570px;
+    margin: 0 auto;
+}
+.inlineimage  img{
+    margin: 0 0 15px 0;
+}
+
 
 
 /* .head-div p {
